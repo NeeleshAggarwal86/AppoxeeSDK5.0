@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AppoxeeSDK5.0_Example' do
+  pod 'AppoxeeSDK5.0', :path => '../'
+
+  target 'AppoxeeSDK5.0_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
