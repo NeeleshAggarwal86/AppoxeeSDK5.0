@@ -1,0 +1,6 @@
+framework module AppoxeeSDK5_0 {
+  umbrella header "AppoxeeSDK5.0-umbrella.h"
+
+  export *
+  module * { export * }
+}

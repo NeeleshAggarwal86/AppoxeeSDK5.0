@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AppoxeeSDK5.0'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AppoxeeSDK5.0.'
+  s.summary          = 'Appoxee SDK enables developers to harnest the full power of Appoxee on their iOS applications.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Appoxee SDK enables push notification in your iOS application, for engaging your application users and increasing retention.
                        DESC
 
   s.homepage         = 'https://github.com/neeleshaggarwal86/AppoxeeSDK5.0'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'AppoxeeSDK5.0/Classes/**/*'
+  s.source_files = 'AppoxeeSDK5.0/AppoxeeSDK5.0/AppoxeeSDK5.0/Classes/**/*'
   
   # s.resource_bundles = {
   #   'AppoxeeSDK5.0' => ['AppoxeeSDK5.0/Assets/*.png']

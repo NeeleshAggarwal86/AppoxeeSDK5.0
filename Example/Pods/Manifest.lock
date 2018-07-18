@@ -1,0 +1,16 @@
+PODS:
+  - AppoxeeSDK5.0 (0.1.0)
+
+DEPENDENCIES:
+  - AppoxeeSDK5.0 (from `../`)
+
+EXTERNAL SOURCES:
+  AppoxeeSDK5.0:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppoxeeSDK5.0: 823b2c4c11eeb08f66229412eaa32cdc9cb10f72
+
+PODFILE CHECKSUM: ea1d8ccaa68a8d5d95197be125f83187bffb0c45
+
+COCOAPODS: 1.5.3

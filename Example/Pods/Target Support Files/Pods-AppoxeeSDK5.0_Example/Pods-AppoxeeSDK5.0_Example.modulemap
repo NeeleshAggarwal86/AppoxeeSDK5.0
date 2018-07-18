@@ -1,0 +1,6 @@
+framework module Pods_AppoxeeSDK5_0_Example {
+  umbrella header "Pods-AppoxeeSDK5.0_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
